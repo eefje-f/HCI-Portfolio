@@ -11,12 +11,21 @@ body{
 .homeportfolio{
     text-align: center;
     margin: 20px auto;
+}
+
+h1{
     font-size: 30px;
     font-weight: bold;
 }
 
 span{
     font-weight: normal;
+    font-size:30px;
+}
+
+h2{
+    font-weight: normal;
+    font-size: 22px;
 }
 
 .container{
